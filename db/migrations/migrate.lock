@@ -1,0 +1,6 @@
+# Prisma Migrate lockfile v1
+
+20201004125047-initial-migration
+20201004131155-blog1
+20201004132343-blog2
+20201005081135-comment
